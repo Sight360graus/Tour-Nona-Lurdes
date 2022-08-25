@@ -1,0 +1,79 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_C0557EDB_D34A_1419_41D7_5CE83A6E5A1F.source = https://api.whatsapp.com/send?phone=5548998031245
+LinkBehaviour_DC96830A_D34A_0DFB_41E8_939C7CB868B4.source = https://api.whatsapp.com/send?phone=5548998031245
+LinkBehaviour_C1FB6BB9_D56F_D344_41D3_8FBBC6F2F8F7.source = https://www.booking.com/hotel/br/restaurante-e-pousada-sitio-nona-lurdes.pt-br.html
+LinkBehaviour_DB2FFFAA_D529_D347_41D8_EC1CBE67833A.source = https://www.booking.com/hotel/br/restaurante-e-pousada-sitio-nona-lurdes.pt-br.html
+LinkBehaviour_C0596ECB_D34A_1479_41D9_D09131953184.source = https://www.facebook.com/sitiononalurdess/
+LinkBehaviour_DC8639DA_D34E_7C1B_41D5_8123E0B77C8A.source = https://www.facebook.com/sitiononalurdess/
+LinkBehaviour_DC5C8EBC_D34A_141F_41E0_2AE970319514.source = https://www.google.com/maps/place/Pousada+S%C3%ADtio+Nona+Lurdes/@-27.2836692,-48.876681,15z/data=!4m8!3m7!1s0x0:0x5fb2fa12128535f7!5m2!4m1!1i2!8m2!3d-27.2836692!4d-48.876681
+LinkBehaviour_C05BBEDB_D34A_1419_41E1_FE16613E8FED.source = https://www.google.com/maps/place/Pousada+S%C3%ADtio+Nona+Lurdes/@-27.2836692,-48.876681,15z/data=!4m8!3m7!1s0x0:0x5fb2fa12128535f7!5m2!4m1!1i2!8m2!3d-27.2836692!4d-48.876681
+LinkBehaviour_C05CAEBB_D34A_1418_41E3_EBA3DF7533D8.source = https://www.instagram.com/sight360graus/
+LinkBehaviour_A44F1B81_B719_F2FC_41DC_AA63CBDA5789.source = https://www.instagram.com/sight360graus/
+LinkBehaviour_C0551EDB_D34A_1419_41CB_B66D3C3C6B8C.source = https://www.instagram.com/sitiononalurdes/
+LinkBehaviour_DDB2869C_D34E_141F_41CC_E5B1F06FC515.source = https://www.instagram.com/sitiononalurdes/
+LinkBehaviour_C0583EDB_D34A_1419_41AA_945F5D1D62FA.source = https://www.sitiononalurdes.com.br/
+LinkBehaviour_DC272B48_D34F_FC67_41D8_E13F56A5E689.source = https://www.sitiononalurdes.com.br/
+
+## Media
+
+### Audio
+audiores_D887370D_D529_735C_41E7_7621AD0D117A.mp3Url = media/audio_D8CBCC03_D529_D545_41E7_9C0267311B57_pt.mp3
+audiores_D887370D_D529_735C_41E7_7621AD0D117A.oggUrl = media/audio_D8CBCC03_D529_D545_41E7_9C0267311B57_pt.ogg
+audiores_D86CF9B3_D52F_DF44_41D6_E7A831812159.mp3Url = media/audio_D8F2426E_D52F_4DDF_41E0_7E376396D8C7_pt.mp3
+audiores_D86CF9B3_D52F_DF44_41D6_E7A831812159.oggUrl = media/audio_D8F2426E_D52F_4DDF_41E0_7E376396D8C7_pt.ogg
+
+### Title
+panorama_DE4ADD4D_D26A_2754_41E6_9084C18959B0.label = Foto 1
+panorama_D8B69400_D26A_64CC_41E3_32EB8E094F81.label = Foto 2
+panorama_D8B3F42C_D26A_64D4_41B2_E7E8ECF3EB7B.label = Foto 3
+panorama_D8B22418_D26A_24FC_41C4_2600074AF898.label = foto 4
+panorama_D8B3B59C_D26A_27F4_41D0_2BBE96D1C027.label = foto 5
+
+## Skin
+
+### Button
+Button_C8BE2B54_D29E_E34B_41C7_02453491604D.label = CABANA 1
+Button_C8BE2B54_D29E_E34B_41C7_02453491604D_mobile.label = CABANA 1
+Button_C8AE67B7_D29E_E334_41A0_BF29CE5BAB69.label = CABANA 2
+Button_C8AE67B7_D29E_E334_41A0_BF29CE5BAB69_mobile.label = CABANA 2
+Button_C89864F8_D29E_E53C_41B3_CA45C934B288_mobile.label = CABANA 3
+Button_C89864F8_D29E_E53C_41B3_CA45C934B288.label = CABANA 3
+Button_CB0770B8_D29E_5D3C_41E0_D8475459D183.label = CASA PARA FOTOS
+Button_CB0770B8_D29E_5D3C_41E0_D8475459D183_mobile.label = CASA PARA FOTOS
+Button_CB171814_D29E_2CF4_41AE_B0D3B9EA3AB6_mobile.label = ENTRADA POUSADA
+Button_CB171814_D29E_2CF4_41AE_B0D3B9EA3AB6.label = ENTRADA POUSADA
+Button_CB0E4470_D29E_254B_41D6_AFE8A7FC2B9D_mobile.label = ENTRADA RESTAURANTE
+Button_CB0E4470_D29E_254B_41D6_AFE8A7FC2B9D.label = ENTRADA RESTAURANTE
+Button_CB6E1E48_D29E_655C_41A7_BF827119EA04_mobile.label = LAGO 
+Button_CB6E1E48_D29E_655C_41A7_BF827119EA04.label = LAGO 
+Button_C8E2D07D_D29E_DD34_41E7_27D6E5C96F3D_mobile.label = PISCINA
+Button_C8E2D07D_D29E_DD34_41E7_27D6E5C96F3D.label = PISCINA
+Button_DDA5CECA_D35A_347B_41E9_09F1E04C1FA2.label = RESERVAR AGORA!
+Button_DDA5CECA_D35A_347B_41E9_09F1E04C1FA2_mobile.label = RESERVAR AGORA!
+
+### Image
+Image_A2B2A9EF_B719_FE04_41E4_89F0A2C96E60_mobile.url = skin/Image_A2B2A9EF_B719_FE04_41E4_89F0A2C96E60_mobile_pt.png
+Image_A2B2A9EF_B719_FE04_41E4_89F0A2C96E60.url = skin/Image_A2B2A9EF_B719_FE04_41E4_89F0A2C96E60_pt.png
+Image_C5CA396C_D29E_2F54_41E5_41650D405605_mobile.url = skin/Image_C5CA396C_D29E_2F54_41E5_41650D405605_mobile_pt.png
+Image_C5CA396C_D29E_2F54_41E5_41650D405605.url = skin/Image_C5CA396C_D29E_2F54_41E5_41650D405605_pt.png
+Image_C6CD234D_D35A_0C79_41C2_2EFB310F0809.url = skin/Image_C6CD234D_D35A_0C79_41C2_2EFB310F0809_pt.png
+
+### Label
+Label_A3AA2F2B_B71E_520C_41D1_D4C54F161DCD.text = Desenvolvido por
+Label_A3AA2F2B_B71E_520C_41D1_D4C54F161DCD_mobile.text = Desenvolvido por
+
+### Tooltip
+IconButton_C1F30489_D51E_D544_41BF_D9814CE92681.toolTip = Fullscreen
+IconButton_C67300B5_D56B_4D4C_41C0_779B46BCE718.toolTip = Fullscreen
+
+## Tour
+
+### Description
+tour.description = Tour Virtual 360 graus
+
+### Title
+tour.name = Sítio Nona lurdes
